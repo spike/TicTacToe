@@ -1,0 +1,50 @@
+ascii Tic Tac Toe Challenge
+
+Sample Game:
+Stephan #1 vs. Stephan #2
+ X | O | X                                                                                                                    
+---+---+---                  
+ O | O | X                                                                                                                      
+---+---+---                                                                                                  
+ X | X | O
+
+
+Please replace "Player #1" or "Player #2" with your first name or nickname. 
+If you're player #1, start the game immediately by taking the first turn. 
+
+Player #1 vs. Player #2
+   |   |                                                                                                                      
+---+---+---                  
+   |   |                                                                                                                       
+---+---+---                                                                                                  
+   |   | 
+
+Player #1 vs. Player #2
+   |   |                                                                                                                      
+---+---+---                  
+   |   |                                                                                                                       
+---+---+---                                                                                                  
+   |   | 
+
+Player #1 vs. Player #2
+   |   |                                                                                                                      
+---+---+---                  
+   |   |                                                                                                                       
+---+---+---                                                                                                  
+   |   | 
+
+
+Player #1 vs. Player #2
+   |   |                                                                                                                      
+---+---+---                  
+   |   |                                                                                                                       
+---+---+---                                                                                                  
+   |   | 
+
+Player #1 vs. Player #2
+   |   |                                                                                                                      
+---+---+---                  
+   |   |                                                                                                                       
+---+---+---                                                                                                  
+   |   | 
+
