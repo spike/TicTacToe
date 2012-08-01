@@ -12,8 +12,8 @@ Stephan #1 vs. Stephan #2
 Please replace "Player #1" or "Player #2" with your first name or nickname. 
 If you're player #1, start the game immediately by taking the first turn. 
 
-Player #1 vs. Player #2
-   |   |                                                                                                                      
+krani #1 vs. Player #2
+ x |   |                                                                                                                      
 ---+---+---                  
    |   |                                                                                                                       
 ---+---+---                                                                                                  
